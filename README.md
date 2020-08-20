@@ -1,6 +1,8 @@
 # urban-dict-gen
 Urban Dictionary definition generation using a RNN. Experimentation with text generation with colloquial language, while we wait for our Twitter developer account to be approved. Will probably use a similar model on tweets for an ongoing mystery project ;).
 
+Update: Twitter dev account approved! Something coming soon...
+
 credit to https://www.tensorflow.org/tutorials/text/text_generation for starter code
 
 dataset from: https://www.kaggle.com/therohk/urban-dictionary-words-dataset/data
